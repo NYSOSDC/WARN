@@ -1,2 +1,2 @@
-# WARN
-Worker Adjustment and Retraining Notification (WARN) dataset
+# About the Dataset
+The New York State Worker Adjustment and Retraining (WARN) Act requires covered businesses to provide early warnings of closures and layoffs to workers, employee representatives, the Department of Labor, and local workforce development boards. Advanced notice gives workers, their families, and communities time to transition, seek new employment, enter workforce training programs with assistance from the Department of Labor and local workforce development boards.
