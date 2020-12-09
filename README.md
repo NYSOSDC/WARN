@@ -12,7 +12,7 @@ We saved all WARN notices in a given year in CSV format for easy access.
 
 The current year file is updated weekly.
 
-Prior years files are saved in the /Historical Data folder and updated occasionally, mostly for fomatting issues or small changes.
+Prior year files are saved in the /Historical Data folder and updated occasionally, mostly for fomatting issues or small changes.
 
 # Questions? Suggestions? Comments?
 
