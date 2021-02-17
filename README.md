@@ -8,11 +8,13 @@ Notices are posted on the New York State Department of Labor website (https://la
 
 We saved all WARN notices in a given year in CSV format for easy access.
 
+# Web Scraper
+
+Web scraper used to generate the CSV files are saved in the /scraper folder.
+
 # Update Frequency
 
-The current year file is updated weekly.
-
-Prior year files are saved in the /Historical Data folder and updated occasionally, mostly for fomatting issues or small changes.
+Results are saved by year in the /data folder. The current year file is updated periodically. Prior year files are updated only to correct errors or fomatting issues.
 
 # Questions? Suggestions? Comments?
 
